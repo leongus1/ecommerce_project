@@ -1,0 +1,11 @@
+.small-food{
+    width: 300px; 
+    max-height: 200px;
+    object-fit: contain; 
+}
+
+.mid-food{
+    width: 600px; 
+    max-height: 300px;
+    object-fit: contain; 
+}
